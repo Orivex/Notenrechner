@@ -1,0 +1,6 @@
+Fach1 07
+Fach2 12
+Fach3 08
+Fach4 14
+Fach5 05
+Fach6 11
