@@ -8,9 +8,9 @@ Format:
 
 Beispiel:
 
-Informatik 15
-Kunst 03
-Deutsch 12
+Informatik 15 <br>
+Kunst 03 <br>
+Deutsch 12 <br>
 Mathe 11
 
 Führe die Date Notenrechner.jar aus.
