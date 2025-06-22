@@ -1,4 +1,4 @@
-Downloade das Projekt und öffne'Executable".
+Downloade das Projekt und öffne 'Executable".
 
 Gebe deine Noten und Fächer in noten.txt ein.
 
