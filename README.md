@@ -1,4 +1,4 @@
-Downloade den Ordner 'Executable".
+Downloade das Projekt und öffne'Executable".
 
 Gebe deine Noten und Fächer in noten.txt ein.
 
@@ -9,11 +9,13 @@ Format:
 Beispiel:
 
 Informatik 15 <br>
-Kunst 03 <br>
-Deutsch 12 <br>
+Kunst 03x <br>
+Deutsch 12x <br>
 Mathe 11
 
+Hinweis: Das "x" nach den Notenpunkten kennzeichnet einen Leistungskurs.
+
 Führe die Date Notenrechner.jar aus.
-Doppelklick oder den Ordner im Terminal öffnen eingeben: java -jar Notenrechner.jar
+Doppelklick auf Notenrechner.jar oder den Ordner im Terminal öffnen. Dann gibst du ein: java -jar Notenrechner.jar
 
 Siehe statistik.txt und log.txt für Ergebnisse
